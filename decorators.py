@@ -45,3 +45,5 @@ def unstable_connection():
     return "Данные получены!"
 
 print(unstable_connection())
+
+
